@@ -9,6 +9,7 @@ Date: 01/16/2020
 
 int main(void) {
 	printf("Isabel Adrover Gallego\n");
+	printf("Undeclared\n");
 	return 0; 
 	
 }
